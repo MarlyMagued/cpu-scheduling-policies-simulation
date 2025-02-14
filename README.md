@@ -67,24 +67,7 @@ To verify correctness, compare output with expected test cases:
 ```sh
 cat test_output.txt | diff expected_output.txt -
 ```
-
-## Bonus: Docker Support
-A `Dockerfile` can be added to build a lightweight containerized version of the project.
-
-## Submission Guidelines
-- Name the project directory as `id1-id2-lab6` (e.g., `6000-7000-lab6`).
-- Create a `.tar.gz` archive:
-  ```sh
-  tar cvfz ids-lab6.tar.gz <project_directory>
-  ```
-- Append `.pdf` to the filename for submission.
-
-## Notes
-- Implemented in C++ using STL.
-- Developed as a group project (2 students per group).
-- No late submissions allowed.
-
 ---
-**Author(s)**: Your Name(s)  
+**Author**: Marly Magued 
 **Course**: Operating Systems (CC373)  
 **Institution**: Alexandria University, Faculty of Engineering  
